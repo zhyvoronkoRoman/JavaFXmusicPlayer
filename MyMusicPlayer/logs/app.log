@@ -1,0 +1,168 @@
+2025-05-29 15:07:18 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Запуск програми.
+2025-05-29 15:07:19 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Програма завершена.
+2025-05-29 15:11:34 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Запуск програми.
+2025-05-29 15:11:34 [JavaFX Application Thread] ERROR org.musicplayer.mymusicplayer.Main - Критична помилка у програмі.
+java.lang.RuntimeException: Test email error
+	at org.musicplayer.mymusicplayer.Main.start(Main.java:26) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:839) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:483) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-29 15:11:34 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Програма завершена.
+2025-05-29 15:14:13 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Запуск програми.
+2025-05-29 15:14:13 [JavaFX Application Thread] ERROR org.musicplayer.mymusicplayer.Main - Критична помилка у програмі.
+java.lang.RuntimeException: Test email error
+	at org.musicplayer.mymusicplayer.Main.start(Main.java:26) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:839) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:483) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-29 15:14:13 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Програма завершена.
+2025-05-29 15:19:19 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Запуск програми.
+2025-05-29 15:19:19 [JavaFX Application Thread] ERROR org.musicplayer.mymusicplayer.Main - Критична помилка у програмі.
+java.lang.RuntimeException: Test email error
+	at org.musicplayer.mymusicplayer.Main.start(Main.java:26) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:839) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:483) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-29 15:19:19 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Програма завершена.
+2025-05-29 15:30:40 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Запуск програми.
+2025-05-29 15:30:40 [JavaFX Application Thread] ERROR org.musicplayer.mymusicplayer.Main - Критична помилка у програмі.
+java.lang.RuntimeException: Test email error
+	at org.musicplayer.mymusicplayer.Main.start(Main.java:26) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:839) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:483) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-29 15:30:40 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Програма завершена.
+2025-05-29 15:31:46 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Запуск програми.
+2025-05-29 15:31:46 [JavaFX Application Thread] ERROR org.musicplayer.mymusicplayer.Main - Критична помилка у програмі.
+java.lang.RuntimeException: Test email error
+	at org.musicplayer.mymusicplayer.Main.start(Main.java:26) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:839) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:483) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-29 15:31:46 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Програма завершена.
+2025-05-29 15:33:44 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-05-29 15:33:44 [JavaFX Application Thread] ERROR org.musicplayer.mymusicplayer.Main - Critical error in application.
+java.lang.RuntimeException: Test email error
+	at org.musicplayer.mymusicplayer.Main.start(Main.java:26) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:839) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:483) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-29 15:33:44 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-05-29 15:36:49 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-05-29 15:36:49 [JavaFX Application Thread] ERROR org.musicplayer.mymusicplayer.Main - Critical error in application.
+java.lang.RuntimeException: Test email error
+	at org.musicplayer.mymusicplayer.Main.start(Main.java:26) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:839) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:483) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-29 15:36:49 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-05-29 15:39:25 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-05-29 15:39:25 [JavaFX Application Thread] ERROR org.musicplayer.mymusicplayer.Main - Critical error in application.
+java.lang.RuntimeException: Test email error
+	at org.musicplayer.mymusicplayer.Main.start(Main.java:26) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:839) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:483) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-29 15:39:25 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-05-29 15:43:58 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-05-29 15:43:58 [JavaFX Application Thread] ERROR org.musicplayer.mymusicplayer.Main - Critical error in application.
+java.lang.RuntimeException: Test email error
+	at org.musicplayer.mymusicplayer.Main.start(Main.java:26) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:839) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:483) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-21.0.7-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185) ~[javafx-graphics-21.0.7-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+2025-05-29 15:44:05 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-05-29 15:50:49 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-05-29 15:50:50 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-05-29 15:51:24 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-05-29 15:51:25 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-05-29 15:55:03 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-05-29 15:55:04 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-05-29 15:59:26 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-05-29 15:59:26 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-03 22:54:31 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-03 22:54:31 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-03 23:21:36 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-03 23:21:36 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-06 12:47:05 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-06 12:47:06 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-06 12:47:45 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-06 12:47:46 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-11 16:14:30 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-11 16:14:31 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-11 16:20:15 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-11 16:20:16 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-11 16:21:35 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-11 16:21:35 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-11 16:45:04 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-11 16:45:05 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-11 22:45:24 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-11 22:45:24 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-11 22:53:21 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-11 22:53:22 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-11 22:56:19 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-11 22:56:19 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-11 23:00:55 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-11 23:00:55 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-11 23:02:44 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-11 23:02:45 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-11 23:06:27 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-11 23:06:28 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-11 23:07:51 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-11 23:07:51 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.
+2025-06-11 23:16:09 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program started.
+2025-06-11 23:16:10 [JavaFX Application Thread] INFO  org.musicplayer.mymusicplayer.Main - Program finished.

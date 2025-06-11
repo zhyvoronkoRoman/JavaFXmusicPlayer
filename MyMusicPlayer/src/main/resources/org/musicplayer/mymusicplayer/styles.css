@@ -1,0 +1,92 @@
+/*стиль ListView */
+.list-view {
+    -fx-control-inner-background:  #252425; /* Задній фон списку */
+    -fx-text-fill: #e109e1;               /* Колір тексту */
+    -fx-font-family: 'Arial';            /* Шрифт */
+    -fx-font-size: 14px;                 /* Розмір тексту */
+}
+
+/* Стиль для вибраного елемента в списку */
+.list-cell:filled:selected {
+    -fx-background-color: #3b3b3b; /* Колір виділення */
+    -fx-text-fill: white;          /* Колір тексту у виділеному рядку */
+}
+
+/* Стиль при наведенні миші на елемент */
+.list-cell:hover {
+    -fx-background-color: #454545; /* Колір при наведенні */
+}
+
+/* Зміна кольора доріжки слайдера */
+.slider .track {
+    -fx-background-color: #252425; /* Задній фон треку */
+}
+
+/* Зміна кольору кнопки слайдера */
+.slider .thumb {
+    -fx-background-color: #e109e1;
+    -fx-background-insets: 0;
+}
+
+/* Колір рухомої кнопки при наведенні*/
+.slider .thumb:hover {
+    -fx-background-color: #e109e1; /* Яскравіший колір при наведенні */
+}
+
+#results {
+    -fx-background-color: grey;
+    -fx-control-inner-background: grey;
+    -fx-text-fill: #e109e1;
+}
+#results .list-cell {
+    -fx-text-fill: #e109e1;
+    -fx-background-color: transparent;
+}
+#textFieldToSearch {
+    -fx-text-fill: #e109e1;
+}
+#textFieldToSearch .text-field .prompt-text {
+    -fx-prompt-text-fill: #e109e1;
+}
+.add-button {
+    -fx-background-color: #252425;
+    -fx-text-fill: #e109e1;
+    -fx-cursor: hand;
+    -fx-font-size: 12px;
+    -fx-padding: 2 8 2 8;
+    -fx-background-radius: 8;
+}
+.playlist-hbox {
+    -fx-alignment: CENTER_LEFT;
+    -fx-padding: 5 0 5 0;
+}
+.playlist-name-field {
+    -fx-pref-width: 0;
+    -fx-font-size: 24px;
+    -fx-max-width: 9999;
+    -fx-hgrow: always;
+}
+.add-button, .delete-button, .save-button {
+    -fx-background-color: #252425;
+    -fx-text-fill: #e109e1;
+    -fx-cursor: hand;
+    -fx-font-size: 12px;
+    -fx-padding: 2 15 2 8;
+    -fx-background-radius: 8;
+}
+
+/* Стиль ScrollPane для плейлістів */
+.scroll-pane {
+    -fx-background: black;
+    -fx-background-color: black;
+}
+.scroll-pane .viewport {
+    -fx-background-color: black;
+}
+.scroll-pane .content {
+    -fx-background-color: black;
+    -fx-text-fill: #e109e1;
+}
+.scroll-pane .label, .scroll-pane .text-field, .scroll-pane .button {
+    -fx-text-fill: #e109e1;
+}
